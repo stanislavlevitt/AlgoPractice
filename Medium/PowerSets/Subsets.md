@@ -14,8 +14,9 @@ The solution set must not contain duplicate subsets.
 
 ## Example
 
-Given an input of nums = [1,2,3]
+* console.log(subset([1,2,3])
 
+/*
 Output will be
 [
   [3],
@@ -27,6 +28,7 @@ Output will be
   [1,2],
   []
 ]
+*/
 
 ---
 
