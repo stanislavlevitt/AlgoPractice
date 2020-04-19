@@ -7,6 +7,7 @@ class: center middle
 ## Interviewer Prompt
 
 Given a set of distinct integers, nums, return all possible subsets (the power set).
+
 The solution set must not contain duplicate subsets.
 
 ---
@@ -14,6 +15,7 @@ The solution set must not contain duplicate subsets.
 ## Example
 
 Given an input of nums = [1,2,3]
+
 Output will be
 [
   [3],
